@@ -1,0 +1,7 @@
+Inicio
+Leia X
+x1 = (X - 1)*10
+x2 = (10 - X)
+Y = (x1 + x2)
+Imprima Y
+Fim

@@ -1,0 +1,6 @@
+Leia e armazene um número que deseja multiplicar por 9
+Subtraia 1 deste número e armazene o resultado
+Multiplique esta subtração e armazene o resultado como X
+Subtraia este número de 10 e armazene o resultado como Y
+Some os valores de X e Y
+Apresente o resultado da soma e finalize o programa
